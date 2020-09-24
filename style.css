@@ -1,0 +1,72 @@
+header .romove-padding{
+    padding-left: 0px;
+    padding-right: 0px;
+    }
+
+header .imgtext{
+    background-color: rgb(241, 241, 239);
+    padding: 5%;
+}
+header .middle{
+    padding-top:6% ;
+    padding-left: 5%;
+}
+
+
+header .msg{
+    background-color: rgb(43, 36, 36);
+    color: white;
+    padding: 10px;
+    font-size: 13px;
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: center;
+    margin: auto;
+    align-items: center;
+}
+main{
+    margin: 2%;
+}
+
+.t{
+    margin-top: 2%;
+}
+
+main .navaliment{
+    padding-left: 35%;
+    padding-right: 20%;
+}
+
+main .card{
+    margin: 10px;
+}
+
+main .buttonalignment{
+    padding-left: 44%;
+    padding-right: 43%;
+    margin: 2%;
+}
+.b{
+    margin-left: 35px;
+}
+
+footer {
+    padding-left: 5%;
+}
+footer .space{
+    padding: 1%;
+    margin: 30px;
+}
+footer .small{
+    font-size: 10px;
+}
+
+header .imgbutton{
+    margin: 5%;
+    margin-bottom: 15px;
+
+}
+.linespace{
+    margin-top: 10px;
+margin-bottom: 10px;
+}
